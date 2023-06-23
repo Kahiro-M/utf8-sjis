@@ -1,0 +1,1 @@
+pyinstaller utf8-sjis.py --onefile --icon=icon.ico
